@@ -9,6 +9,7 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GIT
+
 start a working area (see also: git help tutorial)
    clone     Clone a repository into a new directory
    init      Create an empty Git repository or reinitialize an existing one
